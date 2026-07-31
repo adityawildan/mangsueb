@@ -1,0 +1,8 @@
+{
+  "name": "Mamang Sueb (Subtitler Terbaek Sedunia Shopee)",
+  "description": "AI Subtitle Generator personally made for better workflow. using Gemini as transcriber and compatible for Premiere/After Effects. personally tweaked for Shopee daily transcription",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "C7": [],
+  "aq": []
+}
