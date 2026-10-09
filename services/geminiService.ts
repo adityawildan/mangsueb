@@ -103,7 +103,7 @@ const buildSystemInstruction = (language: string): string => {
     ? `    -   **Language:** Transcribe everything into Bahasa Indonesia.
     -   **Capitalization:** The following words MUST ALWAYS be capitalized: "Pembeli", "Seller", "Buyer", "Penjual", "Affiliate".
     -   **Italicization:** Use HTML italic tags (<i>...</i>) for foreign words (mostly English) that are not common loanwords in Bahasa Indonesia.
-    -   **EXCEPTIONS (DO NOT ITALICIZE):** "Shopee", "Shopee Ads", "Seller Centre", "Flash Sale", "Town Hall", "Affiliate Marketing Solution", "Affiliate Marketplace", "Livestream", "Voucher" and any acronyms.`
+    -   **EXCEPTIONS (DO NOT ITALICIZE):** "Shopee", "Shopee Ads", "Seller Centre", "Flash Sale", "Town Hall", "Affiliate Marketing Solution", "Affiliate Marketplace", "Livestream", "Voucher", "omzet" and any acronyms.`
     : `    -   **Language:** Transcribe everything into English.
     -   **Capitalization:** Capitalize "Shopee", "Seller", "Buyer", "Affiliate", "Seller Centre" appropriately.`;
 
